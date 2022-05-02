@@ -1,0 +1,633 @@
+{
+  "llsid": 2005115005607947073,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [],
+          "adConversionInfo": {
+            "h5Url": "https://chenzhongkj.com/rest/n/lp/page/getHtml?hyId\u003dlandingPg\u0026pageId\u003d347565619927744512\u0026ksCampaignId\u003d800256607\u0026ksUnitId\u003d1456538807\u0026ksCreativeId\u003d22752589472\u0026callback\u003dgCyY4gOy1AoSMnXtN7Rpf4Ob-l3x-qxgJiPOytA-a4xNODbbEopVnT_1XbKdWR1t2HaJYvvM1iokUPMALbiJscyn_PracPi3BnNoE7diNqrLAlNAs-eeGXUU_ltWOxlPb_S6qDAi0UPEubDSQnYvGTH244r5imd-JnstGbDUzdsLny2KwZ025IyxZQshpjsA",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22752589472,
+            "accountId": 13566461,
+            "adSourceType": 1,
+            "adDescription": "这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！",
+            "adSourceDescription": "广告",
+            "adOperationType": 2,
+            "adShowDuration": 41,
+            "appIconUrl": "",
+            "appName": "",
+            "appPackageName": "",
+            "appScore": 0,
+            "adActionDescription": "抢先领取",
+            "adMarkContent": "广告",
+            "campaignId": 800256607,
+            "unitId": 1456538807,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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\u003d",
+            "campaignName": "快手主站-竖版视频-炸鸡+订单-见面礼-01-0428",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "美团外卖",
+            "enableCloseAd": true,
+            "adActionBarColor": "FE3666",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/04/28/12/BMjAyMjA0MjgxMjM0MDRfMjg1MTM5OTQ3MV83MzA5MDM4MzU0NV8wXzM\u003d_b_B2cfa970ee904a87eb08cd1806a7b5862.mp4?tag\u003d1-1651462886-unknown-0-c1hxfs9agq-da572416b5937352\u0026clientCacheKey\u003d3xez36q2yt9q36m_b.mp4\u0026tt\u003db\u0026di\u003ddf5f2cd8\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5243315941768236066,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2851399471,
+            "userName": "关注美团外卖省钱宝薅羊毛",
+            "accountId": 13566461,
+            "userGender": "U",
+            "portraitUrl": "https://p4.a.yximgs.com/uhead/AB/2022/04/22/10/BMjAyMjA0MjIxMDE5MDlfMjg1MTM5OTQ3MV8zX2hkNTY4XzkxNg\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "b31d91c844a9e6c4",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 40480,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://txmov6.a.yximgs.com/ksc1/2mRDEs0BLeTL1Z0jN_1Gy0xF4IjmcNRhxqZtwdLhtEzcW59I9dXt2CoXuassFYtSOWeABsCKEVR_i2oHs7922TWX2fAkiFb0TH-moS4V9CSNg48NyKi9tTgmd9KyaxIadGTOeRzPS9s_WiS5ty_YUMnG46PGdsmduBkE4jp7l-JlOIHILa0LcUl2pcVSFtNM.mp4?tag\u003d1-1651463359-unknown-0-kedvxb3vlj-f5d857cd075a8ffd\u0026type\u003dhot\u0026clientCacheKey\u003d3xez36q2yt9q36m_swft.mp4\u0026di\u003db7d91455\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/2mRDEs0BLeTL1Z0jN_1Gy0xF4IjmcNRhxqZtwdLhtEzcW59I9dXt2CoXuassFYtSOWeABsCKEVR_i2oHs7922TWX2fAkiFb0TH-moS4V9CSNg48NyKi9tTgmd9KyaxIadGTOeRzPS9s_WiS5ty_YUMnG46PGdsmduBkE4jp7l-JlOIHILa0LcUl2pcVSFtNM.mp4?pkey\u003dAAWWx4cYSbqp7LQAQrYECwWuGPAZPqQyQRZMpb_R8PQx_s-ZFyLrn3Xkq1qis1Z_DbF_sYso6t9yR6LBx8pQnNW8_AXK_8tJdclRgChJEY4KCYoiVQpCsliMtWZyjilZi-Q\u0026tag\u003d1-1651463359-unknown-1-bryivaexm2-f0c466f7783963e0\u0026type\u003dhot\u0026clientCacheKey\u003d3xez36q2yt9q36m_swft.mp4\u0026di\u003db7d91455\u0026bp\u003d10001\u0026tt\u003dswft\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 2300,
+                "avgBitrate": 705,
+                "width": 720,
+                "height": 1280,
+                "frameRate": 25.0,
+                "quality": 1.6,
+                "kvqScore": {
+                  "FR": 3.507988610444754,
+                  "NR": 3.6396484375
+                },
+                "qualityType": "720p",
+                "qualityLabel": "高清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "b31d91c844a9e6c4/swft",
+                "hdrType": 0,
+                "fileSize": 3570039,
+                "bitratePattern": [
+                  764,
+                  222,
+                  1482,
+                  74,
+                  324
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.2043805867433548,
+          "blockyProbability": 0.25325703620910645,
+          "avgEntropy": 12.268819684074039,
+          "mosScore": 0.7186993360519409
+        }
+      },
+      "comments": [],
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "comment_count": 0,
+      "slideCommentEntryDisabled": false,
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651463359702,
+      "time": "2022-05-02 11:49:19",
+      "share_count": 250,
+      "unlike_count": 0,
+      "forward_count": 0,
+      "view_count": 12622428,
+      "photo_status": 0,
+      "like_count": 0,
+      "caption": "这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！",
+      "photo_id": 5243315941768236066,
+      "isShareCountExp": false,
+      "ad": {
+        "creativeId": 22752589472,
+        "chargeInfo": "h993ukJ5dM9hmTm/s7ZOl+/yeHhdD/2lOg9acKSRfRHCsXixOaTXv/6F6pzX+mfzsvHTwLaJ6SV7teBpXj3uEzidfETVDFtFAuDMXFDsb7HGixpmapOHC3DLUWfDVrhRXME97YRqlhN2uNLiavTaDhrluD4WseN0h3CPO5UwmoRcrAnkL+uWDcEj9Nd1orNaOqp5a+yMQWAySog7n8E5aKR/u9Mx2z1tq8ANiMFT1qo5FxreKOaIetousHdf7z3J+pN2uy9UCFiDx8BeuCvEHZZImqtvVvent6o5rDTLLSGoIU2n9XkpFBXcJ8g08/mYxHizG8mefWrANMRCkx5sPEOsjHSwfbMsLWDePoMrGIucxWs1QkLQ8LZqy5B5krKERGN1oeTQfWLDIaaR7UO/86eF0stGuaXUvcObW2dm+KMPHmDfP/DR7it6/C0wLABqoClqreb4GCvNG4Nei2+/ZJF5R4eKBSf4R0vw2ZM1YY0/jJnBEA81JH3zym5S0/UVx8Ktur5lD90FaOgOb80Pz8y8FpbXsQB/2I7ErZUwWy3tfX7FmkXypUtTUM9xmibP6yjhD6R4Vo7iRA/z81lxQR7huhxmORpG0KsnWuW09XvTkhYei7isQ5WhsgDMwf3gTAIIIzbQBessAXh80M3Tc/UtRky5P8irBQuJ7M3ykl0RhfoSMzof08LoJPTbWYQcnTWVtWTi7LAlToi0Z6P2vl93XPrncgSczauiE4Xoa0lVx7pBuNugbB9yBcUsr9IeAbfH6/ykosvbKd2TWw4tuLA7u2Q/A/H9DeE1MCLfUHYRzBchBADO2wJnVgLGBNCRQng9RhcHOeUYlwmXiQ1RXgxjU6P7WUMNnSY4xRSMIJB28MmkbVhuQE4fgzMzVGJu7WO7GlllO+AkNYS9BgjpT6dBhb90/AXfGc3Qm9KClkMs0yzmgWueDyMb0TnhW03JoTRnQoCUITCZmU/HUMD4YeDbREqRIydOwTchHW1Pa0gFQi/3f834F0AK/23/FVmimPyqsnz788utakambz+Kyz9W4wyd1WTspyoILoFtqTRwcmBibk4gDh+AB4hiZgCB+uie5XOMiDkVSlvl9X0QexdstQLQAOCbAf0o/c+RCEFjbhSoZP5yxQyeTc8kCV0dx74TNT1NEEHJS8jDQoK/gIdMTsub5oIHSekB450WxmQs+ka9t3h20CxJY/yPju5FEQAMK04V6vnTacOHTFHlzgz4bDoE2foLoy/LALgcRegpR/ASz/xOjTg/YUOPyqf3ET3Hegb7Y2Zw41QHpH98xpsKhfxYaTXTnEZTrozYBE2TWlPjeZjm8GNZDb+7XmU8pGDtfsEQxByQrr9CmvKVwk3MgJ0uds+cngtJhEPUd6CT8aHvTIr1VeK2moZ4VXVn41FIXu4ixg5Il/DRwzrS41ze7sD5gbpHov29RjK82deIgLqoTCprKq9YtxPzkSZ3jnR9C9o6BJE45CAm7EaEiEPNwYUT8SFpqLJbAfYJqVQo+QGMQyGkx29MMJgT3VX1jzgJbRpN6BuPPpJZQ9R/2r4f+TAIqHXPsk7ylKJ2OB9V4IQK9xkEju1ldYo1sM6vizJjT7QVDz4IKWwOIrtVISf14mdXvFXcDw1PABrV0rzUUadoZho/294sEu+mkpO+fXnZSXYCMl+aLD3tMBIhrUOlPgnTyUGEtE8kp3QKWFa5lcMyjnJob0wpeIGBvXZMR8RpMMtpwZYe9lleLkLRcEpIrAj/aaeYGVBhPgBkunK9oopA9gQgqK5UuFOwoH3Kuc4ZVnFOPv2b/3HvnKx+RXwBo+ESkwYFxBslncNcx39PlpAlyo5VvvzfZdR+Et/1hBQIKOtmS796LHF23yA9J2eC5qu9GeHmqSMENeZxRPZVZqimkOUdC8MPKuSrzkiJGkqko0OpEeK7QQXrPeM5sekQYFx4P2g60iTiXbVNsCb/TF2dI+P+x/31gQKW7wMhuikGF5Rzb0KDzzi2R2qaasoFbI4VvHc50sMQk484vVDSPAlm5VsHKDqvgTv7OZ5ItdZcJxSSUH+BAWblQCObWsc93FadndWrg6BmV8UAd7G5pQ/3QD1ZF+QmF4NabkVg/eXWFGlnFr+iDRmzMpCSj0uHedrr5gl2EL//+kIdi0h8uhNNinVPPODOnU68YX34rKhsP2ZHTPAF6MAI2eshSqd5xdM7MsM4pvg9ry+g/vj3VdAREE371HPy27ravgxYfKtJ9jcYvNvMMF0CAmxIpI6HorBqCvmZ62Ua0dpCH4+DTNOfhsi27F4IGo8j1XtvJnebVnf8yKDEZDmqB96ajUZ4lTJWzRviZfWcJuS2twuIYjAz4uGU0QCCU9jSc+HlSMoLIgkUK1n6N/uXxbQG26IqhS9hIoBKzzL7ggqB7VSgkdG5Kor77O9Hp1wygsaQNAm/h+53oGP2Hri8RnInbAujz+3MHedO+rhnQGeetiA\u003d",
+        "sourceType": 1,
+        "conversionType": 2,
+        "displayType": 2,
+        "title": "抢先领取",
+        "url": "https://chenzhongkj.com/rest/n/lp/page/getHtml?hyId\u003dlandingPg\u0026pageId\u003d347565619927744512\u0026ksCampaignId\u003d800256607\u0026ksUnitId\u003d1456538807\u0026ksCreativeId\u003d22752589472\u0026callback\u003dgCyY4gOy1AoSMnXtN7Rpf4Ob-l3x-qxgJiPOytA-a4xNODbbEopVnT_1XbKdWR1t2HaJYvvM1iokUPMALbiJsWQ4auVx4qZoXGICpECSxF91VuYhoZlo0rBqn8TGEWmx8hq0oNgJObqTrq_Qn9q4BYt5t0MrmLLzKPuKSSfnnhVJrJH7D4qrHj6FB8F8tRAk\u0026cityName\u003d3601",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "appName": "",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"4_4_114_0\",\"8_1_103_0\",\"3_11_137_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "FE3666",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4541654739,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "FE3666",
+            "actionBarLoadTime": 4000,
+            "actionBarLocation": 0,
+            "actionBarStyle": 1,
+            "displayInfo": "抢先领取",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 6000,
+            "templateId": "adtk-action-bar-ad-v11",
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "captionAdvertisementInfo": {
+            "productName": "美团外卖"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "FE3666",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "抢先领取",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "extraDisplayInfo": {
+            "exposeTag": null,
+            "exposeTagInfoList": [
+              {
+                "canClick": true,
+                "text": "近一周5.5万人已领取",
+                "url": "https://chenzhongkj.com/rest/n/lp/page/getHtml?hyId\u003dlandingPg\u0026pageId\u003d347565619927744512\u0026ksCampaignId\u003d800256607\u0026ksUnitId\u003d1456538807\u0026ksCreativeId\u003d22752589472"
+              }
+            ],
+            "showStyle": 3
+          },
+          "h5ControlInfo": {
+            "h5PreloadDelayTime": 3000,
+            "h5PreloadType": 0,
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "50"
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 美团外卖",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 生活服务综合平台广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d73090383545",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d73090383545",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "FE3666",
+            "actionBarDesc": "这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！",
+            "actionBarTagColor": "fd174e",
+            "actionBarText": "抢先领取",
+            "appIconUrl": "",
+            "appName": "",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "",
+            "productName": "美团外卖",
+            "secondIndustryName": "生活服务综合平台",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "FE3666",
+            "playEndStyle": 1,
+            "showEndOption": true,
+            "tagColor": "fd033f",
+            "templateId": "adtk-play-end-view-v2"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！\",\"iconUrl\":\"\",\"title\":\"美团外卖\",\"actionBar\":\"抢先领取\",\"actionBarBgColor\":\"E69D45\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "actionBarType": 11,
+              "data": "{\"buttonHeight\":36,\"description\":\"这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！\",\"actionBarBgColor\":\"E69D45\",\"actionBar\":\"抢先领取\",\"hideActionBarLoad\":false}",
+              "displayLocation": 1,
+              "resourceType": 11,
+              "styleType": 3,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateShowTime": 0
+            },
+            {
+              "data": "{\"displayInfo\":{\"actionBar\":\"抢先领取\",\"actionBarBgColor\":\"E69D45\",\"description\":\"这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！\"},\"userName\":\"关注美团外卖省钱宝薅羊毛\",\"userHeadUrl\":\"https://p2.a.yximgs.com/uhead/AB/2022/04/22/10/BMjAyMjA0MjIxMDE5MDlfMjg1MTM5OTQ3MV8zX2hkNTY4XzkxNg\u003d\u003d_s.jpg\"}",
+              "displayLocation": 0,
+              "resourceType": 4,
+              "styleType": 4,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-play-end-view-v2",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "这个公众号疯了，每周发放大额外卖红包，点外卖只要几块钱！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+              "templateVersion": "1.3.7",
+              "templateVersionCode": 137,
+              "templateMd5": "f9f601f35780e17e028a0fb14a293b87"
+            },
+            {
+              "templateId": "adtk-play-end-view-v2",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-play-end-view-v2.114.js",
+              "templateVersion": "1.1.4",
+              "templateVersionCode": 114,
+              "templateMd5": "ea70e59774d07851537191e101ec63c1"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": "gCyY4gOy1AoSMnXtN7Rpf4Ob-l3x-qxgJiPOytA-a4xNODbbEopVnT_1XbKdWR1t2HaJYvvM1iokUPMALbiJsWQ4auVx4qZoXGICpECSxF91VuYhoZlo0rBqn8TGEWmx8hq0oNgJObqTrq_Qn9q4BYt5t0MrmLLzKPuKSSfnnhVJrJH7D4qrHj6FB8F8tRAk",
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "shareGuide": {
+        "photoShareGuide": false,
+        "playTimes": 1,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId\u003d3xjcivtkwhqacf2\u0026photoId\u003d3xez36q2yt9q36m",
+      "forward_stats_params": {
+        "fid": "1390019778",
+        "et": "1_u/2005115005607947073_hd0"
+      },
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "following": 0,
+      "verified": false,
+      "headurls": [
+        {
+          "cdn": "p5.a.yximgs.com",
+          "url": "http://p5.a.yximgs.com/uhead/AB/2022/04/22/10/BMjAyMjA0MjIxMDE5MDlfMjg1MTM5OTQ3MV8zX2hkNTY4XzkxNg\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2022/04/22/10/BMjAyMjA0MjIxMDE5MDlfMjg1MTM5OTQ3MV8zX2hkNTY4XzkxNg\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_sex": "U",
+      "user_name": "关注美团外卖省钱宝薅羊毛",
+      "type": 1,
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg"
+        }
+      ],
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/04/28/12/BMjAyMjA0MjgxMjM0MDRfMjg1MTM5OTQ3MV83MzA5MDM4MzU0NV8wXzM\u003d_b_B2cfa970ee904a87eb08cd1806a7b5862.mp4?tag\u003d1-1651462886-unknown-0-c1hxfs9agq-da572416b5937352\u0026clientCacheKey\u003d3xez36q2yt9q36m_b.mp4\u0026tt\u003db\u0026di\u003ddf5f2cd8\u0026bp\u003d13291"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg",
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 40480
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/market595622bfb4964ce9938cff025d9a30fe.kpg"
+        }
+      ],
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/04/28/12/BMjAyMjA0MjgxMjM0MDRfMjg1MTM5OTQ3MV83MzA5MDM4MzU0NV8wXzM\u003d_b_B2cfa970ee904a87eb08cd1806a7b5862.mp4?tag\u003d1-1651462886-unknown-0-c1hxfs9agq-da572416b5937352\u0026clientCacheKey\u003d3xez36q2yt9q36m_b.mp4\u0026tt\u003db\u0026di\u003ddf5f2cd8\u0026bp\u003d13291",
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "serverExpTag": "feed_photo|5243315941768236066|2851399471|1_u/2005115005607947073_hd0",
+      "exp_tag": "1_u/2005115005607947073_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2851399471,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUxMTUwMDU2MDc5NDcwNzN8cGhvdG86NTI0MzMxNTk0MTc2ODIzNjA2Nnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+}
